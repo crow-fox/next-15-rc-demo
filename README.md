@@ -1,3 +1,13 @@
+# Next.js 15 RC Example
+
+## アプリの概要
+
+Next.js 15 の RC を使ったアプリのサンプルです
+
+## カウンターの機能
+
+Firebase Firestore を使ってカウンターの値を永続化
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started

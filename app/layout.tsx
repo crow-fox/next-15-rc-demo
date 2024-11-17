@@ -5,6 +5,8 @@ export const metadata: Metadata = {
   title: "Next.js 15 RC Example",
 };
 
+export const experimental_ppr = true;
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -12,7 +14,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ja">
-      <body>{children}</body>
+      <body className="grid place-content-center min-h-svh bg-stone-800 text-stone-200">
+        {children}
+      </body>
     </html>
   );
 }
