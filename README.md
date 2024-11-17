@@ -1,8 +1,8 @@
-# Next.js 15 RC Example
+# Next.js 15 RC Demo
 
 ## アプリの概要
 
-Next.js 15 の RC を使ったアプリのサンプルです
+Next.js 15 の RC を使ったアプリのデモコードです
 
 ## カウンターの機能
 

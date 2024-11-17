@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Next.js 15 RC Example",
+  title: "Next.js 15 RC Demo",
 };
 
 export const experimental_ppr = true;
